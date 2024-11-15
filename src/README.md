@@ -9,7 +9,7 @@ bannerBrand:
   title: '今夜星辉灿烂'
   description: "时间一直往前走，只要有美丽的交集和没有说再见的结束，就意味着长长久久的同步 "
   buttons:
-    - { text: Javascript, link: '/docs/javascript' }
+    - { text: Javascript, link: '/docs/javascript/base01' }
 
 features:
     - {title: "🧠 学习思路", details: "学习思路就这么几条：模仿、遍历、分治、动态规划、……"}

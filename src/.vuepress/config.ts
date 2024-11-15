@@ -1,6 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
 import { revealJsPlugin } from '@vuepress/plugin-revealjs'
+
 import theme from './theme/index.js'
 
 export default defineUserConfig({
