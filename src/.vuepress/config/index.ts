@@ -27,7 +27,7 @@ export const themeConfig: RecoThemeData = {
       bulletin: enConfig.bulletin,
     },
   },
-  colorMode: 'dark',
+  colorMode: 'auto',
   logo: '/logo.png',
   author: '今夜',
   docsRepo: 'https://github.com/0x0bit',
