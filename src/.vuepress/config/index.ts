@@ -36,10 +36,10 @@ export const themeConfig: RecoThemeData = {
   socialLinks: undefined,
 
   algolia: {
-    appId: 'C1FNVXMFYC',
-    apiKey: 'cd2fbb4554fc7a2ff36f295c7861fb04',
-    indexName: 'jy_',
-    inputSelector: '### REPLACE ME ####',
+    appId: 'KA349BZEP4',
+    apiKey: '479d5c444b46005495fb48330f24e2ed',
+    indexName: '0x0bitio',
+    inputSelector: "### REPLACE ME WITH A CONTAINER (e.g. div) ###",
     algoliaOptions: { 'facetFilters': ["lang:$LANG"] },
     debug: false // Set debug to true if you want to inspect the dropdown
   },
